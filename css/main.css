@@ -7,8 +7,16 @@ main, section {
   width: 100%;
   float: left;
 }
+main img {
+  max-width: 95%;
+  border: 10px solid black;
+}
 .missionSection h1 {
   display: block;
-  width: 45%;
-  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+.missionSection input, textarea, button {
+  display: block;
+  margin-left: 19%;
 }
