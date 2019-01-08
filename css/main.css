@@ -1,8 +1,12 @@
+body {
+  display: block;
+  margin: 0;
+  font-family: sans-serif;
+}
 main, section {
   width: 100%;
   float: left;
 }
-
 .missionSection h1 {
   display: block;
   width: 45%;
