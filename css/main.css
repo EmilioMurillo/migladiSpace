@@ -8,8 +8,7 @@ main, section {
   float: left;
 }
 main img {
-  max-width: 95%;
-  border: 10px solid black;
+  max-width: 100%;
 }
 .missionSection h1 {
   display: block;
