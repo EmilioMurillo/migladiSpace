@@ -9,6 +9,7 @@ main, section {
 }
 main img {
   max-width: 100%;
+  display: block;
 }
 /*.missionSection h1 {
   display: block;
