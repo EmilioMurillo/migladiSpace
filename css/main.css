@@ -30,6 +30,14 @@ body {
           transform: scale(0.7);
 }
 
+h1{
+  font-family: sans-serif;
+  margin-bottom: 0px;
+}
+span{
+  font-size: 25px;
+}
+
 /* Not sure where this is used */
 i:before, i:after, .rolex:before, .rolex:after, .rolex .crown:before, .rolex .crown:after, .bezel .bezel-gradient:after, .bezel .bezel-gradient:before, .bezel-decor:before, .bezel-decor:after, .crystal:before, .crystal:after, .face:after, .face .sec:nth-of-type(1):after, .face .sec:nth-of-type(14):after, .content-upper .logo:before, .content-upper .logo:after, .content-upper .logo .logo-left:before,
 .content-upper .logo .logo-right:before, .marker-triangle:before, .marker-triangle:after, .marker-square:before, .marker-square:after, .date:after, .hand-sec:after, .hand-sec:before, .hand-min:before, .hand-min span:after, .hand-hour:after, .hand-hour:before, .hand-hour span:before, .hand-hour span:after, .hand-hour span .hour-decor:after, .hand-hour span .hour-decor:before {
