@@ -295,7 +295,7 @@ i.bez:nth-of-type(14) {
 /* 10, 20, 30, 40, 50 numbers */
 .bez-num {
   font-family: 'Chathura', sans-serif;
-  font-size: 72px;
+  font-size: 48px;    
   letter-spacing: -0.02em;
   position: absolute;
   width: 406px;
